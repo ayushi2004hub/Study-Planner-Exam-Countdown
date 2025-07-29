@@ -1,0 +1,35 @@
+{
+    "softskills": {
+        "exam_date": "18-07-2025",
+        "weekly_plan": {
+            "Monday": {
+                "task": "public speaking",
+                "status": "Done"
+            },
+            "Tuesday": {
+                "task": "",
+                "status": "Done"
+            },
+            "Wednesday": {
+                "task": "",
+                "status": "Done"
+            },
+            "Thursday": {
+                "task": "",
+                "status": "Done"
+            },
+            "Friday": {
+                "task": "",
+                "status": "Done"
+            },
+            "Saturday": {
+                "task": "",
+                "status": "Done"
+            },
+            "Sunday": {
+                "task": "",
+                "status": "Done"
+            }
+        }
+    }
+}
